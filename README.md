@@ -1,4 +1,6 @@
 # Goopmail-Terms-of-Use
+
+
 <style>
   [data-custom-class='body'], [data-custom-class='body'] * {
           background: transparent !important;
