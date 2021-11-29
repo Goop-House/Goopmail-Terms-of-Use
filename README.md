@@ -168,3 +168,4 @@ mso-themetint:166;"><bdt class="question">United States</bdt></span></span></bdt
       </div>
       
 Also, if it doesn't adhere to https://mailchimp.com/legal/acceptable_use/, then it is prohibited on Goopmail
+All content MUST abide by The Digital Millennium Copyright Act
