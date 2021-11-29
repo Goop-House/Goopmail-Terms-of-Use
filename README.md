@@ -167,5 +167,6 @@ mso-themetint:166;"><bdt class="question">United States</bdt></span></span></bdt
       These terms of use were created using Termly's <a style="color: rgb(48, 48, 241) !important;" href="https://termly.io/products/terms-and-conditions-generator">Terms and Conditions Generator</a>.
       </div>
       
-Also, if it doesn't adhere to https://mailchimp.com/legal/acceptable_use/, then it is prohibited on Goopmail
+Also, if it doesn't adhere to https://mailchimp.com/legal/acceptable_use/ and https://reallygoodemails.com/terms, then it is prohibited on Goopmail
+      
 All content MUST abide by The Digital Millennium Copyright Act
